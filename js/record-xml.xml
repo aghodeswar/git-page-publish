@@ -1,0 +1,43 @@
+<CATALOG>
+    <CD>
+        <first>Bob</first>
+        <last>Dylan</last>
+        <age>32</age>
+        <gender>Male</gender>
+        <interests>
+            <interest>bascketball</interest>
+            <interest>football</interest>
+        </interests>
+    </CD>
+    <CD>        
+        <first>Bob</first>
+        <last>Dylan</last>
+        <age>32</age>
+        <gender>Male</gender>
+        <interests>
+            <interest>bascketball 1</interest>
+            <interest>football 1</interest>
+        </interests>
+    </CD>
+    <CD>        
+        <first>Bob</first>
+        <last>Dylan</last>
+        <age>32</age>
+        <gender>Male</gender>
+        <interests>
+            <interest>bascketball 2</interest>
+            <interest>football 2</interest>
+        </interests>
+    </CD>
+    <CD>        
+        <first>Bob</first>
+        <last>Dylan</last>
+        <age>32</age>
+        <gender>Male</gender>
+        <interests>
+            <interest>bascketball 3</interest>
+            <interest>football 3</interest>
+            <interest>traveling</interest>
+        </interests>
+    </CD>
+</CATALOG>
